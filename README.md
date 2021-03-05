@@ -82,9 +82,9 @@
     </p>
     <br>
     <p>
-    <img src="Лабораторна робота №1/image/1.jpg" alt="Winter" width="280" height="440">
-    <img src="Лабораторна робота №1/image/3.jpg" alt="Winter" width="280" height="440"> 
-    <img src="Лабораторна робота №1/image/2.jpg" alt="Winter" width="280" height="440">
+    <img src="Лабораторна робота №1/image/1.jpg" alt="Winter" width="300" height="460">
+    <img src="Лабораторна робота №1/image/3.jpg" alt="Winter" width="300" height="460"> 
+    <img src="Лабораторна робота №1/image/2.jpg" alt="Winter" width="300" height="460">
     </p>
     <br>
 	<br>
@@ -94,9 +94,9 @@
     </p>
     <br>
     <p>
-    <img src="Лабораторна робота №1/image/5.jpg" alt="Spring" width="280" height="440">
-    <img src="Лабораторна робота №1/image/6.jpg" alt="Spring" width="280" height="440"> 
-    <img src="Лабораторна робота №1/image/4.jpg" alt="Spring" width="280" height="440">
+    <img src="Лабораторна робота №1/image/5.jpg" alt="Spring" width="300" height="460">
+    <img src="Лабораторна робота №1/image/6.jpg" alt="Spring" width="300" height="460"> 
+    <img src="Лабораторна робота №1/image/4.jpg" alt="Spring" width="300" height="460">
     </p>
     <br>
 	<br>
@@ -106,9 +106,9 @@
     </p>
     <br>
     <p>
-    <img src="Лабораторна робота №1/image/7.jpg" alt="Summer" width="280" height="440">
-    <img src="Лабораторна робота №1/image/8.jpg" alt="Summer" width="280" height="440"> 
-    <img src="Лабораторна робота №1/image/9.jpg" alt="Summer" width="280" height="440">
+    <img src="Лабораторна робота №1/image/7.jpg" alt="Summer" width="300" height="460">
+    <img src="Лабораторна робота №1/image/8.jpg" alt="Summer" width="300" height="460"> 
+    <img src="Лабораторна робота №1/image/9.jpg" alt="Summer" width="300" height="460">
     </p>
     <br>
 	<br>
@@ -118,9 +118,9 @@
     </p>
     <br>
     440
-    <img src="Лабораторна робота №1/image/10.jpg" alt="Autumn" width="280" height="440">
-    <img src="Лабораторна робота №1/image/11.jpg" alt="Autumn" width="280" height="440"> 
-    <img src="Лабораторна робота №1/image/12.jpg" alt="Autumn" width="280" height="440">
+    <img src="Лабораторна робота №1/image/10.jpg" alt="Autumn" width="300" height="460">
+    <img src="Лабораторна робота №1/image/11.jpg" alt="Autumn" width="300" height="460"> 
+    <img src="Лабораторна робота №1/image/12.jpg" alt="Autumn" width="300" height="460">
     </p>
     <br>
 	<br>
